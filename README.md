@@ -12,3 +12,6 @@ A personal finance management application developed for my A-Level Computer Scie
 - Store transaction data
 - Navigate between dashboard, transactions, analytics, budget, and help screens
 - Input validation and error handling
+
+## Screenshots
+
