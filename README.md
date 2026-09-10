@@ -15,6 +15,6 @@ A personal finance management application developed for my A-Level Computer Scie
 
 ## Screenshots
 ### Welcome Screen
-![WelcomeScreen](screenshots/welcomescreen.png)
+![WelcomeScreen](screenshots/Welcomescreen.png)
 
 
