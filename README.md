@@ -1,5 +1,5 @@
 # Personal-Finance-Tracker-and-Categoriser
-# Personal Finance Tracker and Categoriser
+
 
 A personal finance management application developed for my A-Level Computer Science coursework. The project helps users record income and expenses, categorise transactions, monitor budgets, and view financial activity through a graphical interface.
 
@@ -16,5 +16,17 @@ A personal finance management application developed for my A-Level Computer Scie
 ## Screenshots
 ### Welcome Screen
 ![WelcomeScreen](screenshots/Welcomescreen.png)
+
+### Dashboard
+![Dashboard](screenshots/Dashboardscreen.png)
+
+### Transactions
+![Transactions](screenshots/Transactionscreen.png)
+
+### Visual Analytics
+![Visual Analytics](screenshots/VisualAnalytics.png)
+
+### Budget
+![Budget](screenshots/Budgetscreen.png)
 
 
