@@ -14,4 +14,7 @@ A personal finance management application developed for my A-Level Computer Scie
 - Input validation and error handling
 
 ## Screenshots
+### Welcome Screen
+![WelcomeScreen](screenshots/welcomescreen.png)
+
 
